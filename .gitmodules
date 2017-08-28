@@ -4,3 +4,6 @@
 [submodule "junit4"]
 	path = junit4
 	url = https://github.com/junit-team/junit4
+[submodule "scribejava"]
+	path = scribejava
+	url = https://github.com/scribejava/scribejava
