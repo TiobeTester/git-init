@@ -1,3 +1,6 @@
 [submodule "Hello-World"]
 	path = Hello-World
 	url = https://github.com/NathanGrey/Hello-World
+[submodule "junit4"]
+	path = junit4
+	url = https://github.com/junit-team/junit4
